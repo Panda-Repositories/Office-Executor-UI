@@ -6,7 +6,7 @@ yea because i use Monaco, it ruined the Text Editor. so i made this up an Open S
 
 # Credit
 
-- SkieHacker - Writing Stuff lmfao
+- SkieHacker - Create the Project
 - Phil Wright - ( Krypton .NET ) https://github.com/ComponentFactory/Krypton
 - WeAreDevs - ( Roblox Executor API )
 
